@@ -1,8 +1,8 @@
 <h2>Playstation Project</h2>
 
 <h2>Technologies</h2>
-This project was made using the follow technologies:
-- Html
+This project was made using the follow technologies:<br>
+- Html<br>
 - CSS
 
 <h2>Autor</h2>
