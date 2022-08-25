@@ -1,6 +1,4 @@
-# tela-do-ps4
-
-:video_game: <h2>Playstation project</h1> :video_game:
+:video_game: Playstation Project: :video_game:
 
 <ul>
   <li>HTML language</li>
