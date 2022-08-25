@@ -2,7 +2,7 @@
 
 <h2>Technologies</h2>
 This project was made using the follow technologies:<br>
-- Html<br>
+- HTML<br>
 - CSS
 
 <h2>Autor</h2>
