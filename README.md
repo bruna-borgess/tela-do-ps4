@@ -1,4 +1,4 @@
-:video_game: Playstation Project: :video_game:
+:video_game: Playstation Project :video_game:
 
 <ul>
   <li>HTML language</li>
